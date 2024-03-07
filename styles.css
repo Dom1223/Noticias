@@ -66,11 +66,8 @@ body {
     height: 100vh;
 }
 
-.boton-con-imagen {
+.Dispositiva {
     background-color: #fff;
-    background-repeat:  no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
     border: 1px solid #ccc;
     padding: 20px;
     margin: 10px;
@@ -78,28 +75,24 @@ body {
     text-align: center;
 }
 
+.Dispositiva2 {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
+}
+
+.Dispositiva3 {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
+}
+
 .bordecolumna{
     border-color: blue;
     border-width: 10px;
   border-style: solid;
-}
-
-section {
-    width: 100%;
-    text-align: center; /* Para centrar la imagen si es más estrecha que la pantalla */
-}
-
-figure {
-    margin: 0;
-}
-
-img {
-    width: 100%;
-    height: auto; /* Para mantener la proporción original de la imagen */
-    display: block; /* Elimina el espacio adicional debajo de la imagen */
-    margin: 0 auto; /* Centra la imagen horizontalmente */
-}
-
-figcaption {
-    /* Estilos opcionales para el título o descripción */
 }
