@@ -96,3 +96,23 @@ body {
     border-width: 10px;
   border-style: solid;
 }
+
+section {
+    width: 100%;
+    text-align: center; /* Para centrar la imagen si es más estrecha que la pantalla */
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    height: auto; /* Para mantener la proporción original de la imagen */
+    display: block; /* Elimina el espacio adicional debajo de la imagen */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+
+figcaption {
+    /* Estilos opcionales para el título o descripción */
+}
