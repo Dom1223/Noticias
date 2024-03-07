@@ -66,29 +66,16 @@ body {
     height: 100vh;
 }
 
-.Dispositiva {
+.boton-con-imagen {
     background-color: #fff;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
     border: 1px solid #ccc;
     padding: 20px;
     margin: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
     text-align: center;
-}
-
-.Dispositiva2 {
-    background-color: #fff;
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
-}
-
-.Dispositiva3 {
-    background-color: #fff;
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
 }
 
 .bordecolumna{
