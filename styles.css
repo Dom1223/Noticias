@@ -83,3 +83,8 @@ body {
     border-width: 10px;
   border-style: solid;
 }
+
+.fa-brands {
+    font-size: 40px; /* Tamaño del icono */
+    color: rgb(37, 102, 208); /* Color del icono */
+}
