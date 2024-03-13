@@ -83,3 +83,18 @@ body {
     border-width: 10px;
   border-style: solid;
 }
+
+.fa-square-facebook {
+    font-size: 40px; /* Tamaño del icono */
+    color: rgb(37, 102, 208); /* Color del icono */
+}
+
+.fa-youtube {
+    font-size: 40px; /* Tamaño del icono */
+    color: rgb(234, 7, 7); /* Color del icono */
+}
+
+.fa-square-instagram {
+    font-size: 40px; /* Tamaño del icono */
+    color: rgb(176, 41, 151); /* Color del icono */
+}
